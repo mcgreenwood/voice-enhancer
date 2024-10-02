@@ -3,8 +3,10 @@
 /scripts
 /dist
 /build
+/venv
 /*.egg-info
 /flagged
 version.py
 __pycache__
 model_repo
+venv/
